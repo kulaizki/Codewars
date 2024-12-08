@@ -1,3 +1,5 @@
+#include <vector>
+
 std::vector<int> sqrtApproximation(int number) {
   std::vector<int> sqrt;
   
