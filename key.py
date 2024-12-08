@@ -21,6 +21,9 @@
 - divmod() # Return quotient and remainder
 - any() # Check if any element in an iterable meets a condition
 - all() # Check if all elements in an iterable meet a condition
+- itertools.permutations() # Generate all permutations of a sequence
+- itertools.combinations() # Generate all combinations of a sequence
+- re.findall() # Find all occurrences of a pattern (from re module)
 
 ## Methods
 - .split() # for strings
@@ -28,7 +31,4 @@
 - .upper()
 - .set() # Remove duplicates or check membership
 - .sort() # Sort a list in place
-- re.findall() # Find all occurrences of a pattern (from re module)
 - .zfill() # Pad a string with leading zeros
-- itertools.permutations() # Generate all permutations of a sequence
-- itertools.combinations() # Generate all combinations of a sequence
