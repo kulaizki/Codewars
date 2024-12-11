@@ -9,6 +9,8 @@
 - s.replace('!', '')
 - d = {x: chr(x + 65) for x in range(26)}
 - ''.join(sorted(set(a1 + a2)))
+- bin(a+b)[2:] # num to binary
+- {x: s.count(x) for x in list(s)}
 
 ## Functions
 - bin() # turn to binary
