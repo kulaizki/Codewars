@@ -11,6 +11,7 @@
 - ''.join(sorted(set(a1 + a2)))
 
 ## Functions
+- bin() # turn to binary
 - isalpha()
 - isdigit()
 - map() # Apply function to all items in an iterable
