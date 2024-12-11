@@ -31,6 +31,7 @@
 - .split() # for strings
 - .join() # for lists
 - .upper()
+- .lower()
 - .set() # Remove duplicates or check membership
 - .sort() # Sort a list in place
 - .zfill() # Pad a string with leading zeros
