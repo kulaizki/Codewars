@@ -8,6 +8,7 @@
 - int(''.join([str(x) for x in arr]), 2) # binary
 - s.replace('!', '')
 - d = {x: chr(x + 65) for x in range(26)}
+- ''.join(sorted(set(a1 + a2)))
 
 ## Functions
 - isalpha()
